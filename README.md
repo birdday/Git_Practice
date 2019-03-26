@@ -1,5 +1,7 @@
 # READ ME
-Hey! Practice using git and github with this repo. I would not recommending storing anything important here. 
+Hey! Practice using git and github with this repo. I would not store anything important here. 
 
 Consider updating this README with notes on git, or whatever else you think should go here.
-Good luck and enjoy.
+Also, don't forget to get into the habit of adding comments/titles to commits.
+
+Good luck and enjoy!
