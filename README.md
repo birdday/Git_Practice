@@ -9,3 +9,4 @@ Good luck and enjoy!
 ------
 I'm modifiying my github files locally from terminal.
 Check using git status to see what there is too commit.
+We need to use the change linking it to our username/email. Try again.
